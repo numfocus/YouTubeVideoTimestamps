@@ -1,6 +1,6 @@
 # YouTubeVideoTimestamps
 
-Adding timestamps to NumFOCUS and PyData YouTube videos!
+Adding timestamps to NumFOCUS and PyData YouTube videos! Sometimes, it may take a few weeks or months for timestamps to be added, but fear not, they will all be added! Your helpful contribution will not be in vain.
 
 ## Get Involved
 
